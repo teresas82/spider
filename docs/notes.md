@@ -5,3 +5,4 @@ Notes and usage details for spider.
 - fix a small wording issue
 - add a note about the defaults
 - clarify the setup steps
+- add a note about the defaults
