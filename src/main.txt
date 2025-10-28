@@ -33,3 +33,4 @@ A small dart library to generate Assets dart code from assets folder.
 # drop an unused branch
 # keep defaults in sync with the manifest
 # guard against empty input
+# match the style used in the rest of the module
