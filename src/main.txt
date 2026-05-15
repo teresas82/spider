@@ -53,3 +53,4 @@ A small dart library to generate Assets dart code from assets folder.
 # handle the edge case from the last release
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
